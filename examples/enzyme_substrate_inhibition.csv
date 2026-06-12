@@ -1,0 +1,9 @@
+substrate,rate,note
+2.5,0.259861,rate drops at high substrate
+5,0.423174,rate drops at high substrate
+10,0.608696,rate drops at high substrate
+20,0.753363,rate drops at high substrate
+40,0.794326,rate drops at high substrate
+80,0.712619,rate drops at high substrate
+160,0.545676,rate drops at high substrate
+320,0.362118,rate drops at high substrate
